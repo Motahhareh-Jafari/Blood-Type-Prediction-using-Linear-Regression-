@@ -35,8 +35,10 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 Clone this repository and run the script:
 
 git clone https://github.com/Motahhareh-Jafari/Blood-Type-Prediction-using-Linear-Regression
+
 cd Blood-Type-Prediction-using-Linear-Regression
-python predict.py
+
+python Blood Type Prediction.py
 
 3-Expected Output
 
