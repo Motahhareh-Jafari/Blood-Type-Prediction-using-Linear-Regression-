@@ -43,8 +43,8 @@ python predict.py
 The script prints the predicted vs actual blood types along with error metrics.
 📊 Results & Discussion
 
-    The model attempts to fit a regression line to a categorical target, which is not ideal.
-    Alternative Approach: Consider using Logistic Regression or Decision Trees for classification instead.
+ The model attempts to fit a regression line to a categorical target, which is not ideal.
+ Alternative Approach: Consider using Logistic Regression or Decision Trees for classification instead.
 
 Future Improvements
     We can Replace Linear Regression with Logistic Regression or a Neural Network classifier.
