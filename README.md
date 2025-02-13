@@ -27,7 +27,7 @@ Methodology
 ### **1️⃣ Install Dependencies**  
 Ensure you have Python and the required libraries installed:  
 
-```bash
+first:
 pip install pandas numpy scikit-learn matplotlib seaborn
 
 2-Run the Script
